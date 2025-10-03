@@ -28,3 +28,11 @@ https://github.com/25119151-sketch/ktmt-nhapmon
 ## Kết quả
 - Repo nhóm có đủ file cá nhân của tất cả thành viên
 - Đã thực hành thành công Git & GitHub workflow
+## Khó khăn
+- Tất cả mọi người phải tự tìm hiểu nên tốn nhiều thời gian
+- Lần đầu tiếp tận nên thao tác vẫn còn chậm
+- > Cách giải quyết: Dùng sự trợ giúp của Google và Chat GPT
+## Lệnh git dùng nhiều nhất
+- git config
+- git push
+  
