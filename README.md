@@ -2,9 +2,9 @@
 
 Dự án đầu tiên của tôi
 
-Họ và tên: Nguyễn Văn Thành
+Họ và tên: Văn Trần Nhật Minh
 
-MSSV: 25119151
+MSSV: 25119120
 
-HELLO
+ok
 
